@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/inheritancePerson/person.cpp
+person.h
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/inheritancePerson/person.h
+
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/inheritancePerson/person.h
+string
+-
+iostream
+-
+
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/inheritancePerson/student.cpp
+student.h
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/inheritancePerson/student.h
+
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/inheritancePerson/student.h
+person.h
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/inheritancePerson/person.h
+
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/inheritancePerson/tests.cpp
+person.cpp
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/inheritancePerson/person.cpp
+student.cpp
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/inheritancePerson/student.cpp
+gtest/gtest.h
+-
+

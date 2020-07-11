@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/ClassHierarchyAssignment/CargoShip.cpp
+CargoShip.h
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/ClassHierarchyAssignment/CargoShip.h
+
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/ClassHierarchyAssignment/CargoShip.h
+Ship.h
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/ClassHierarchyAssignment/Ship.h
+
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/ClassHierarchyAssignment/CruiseShip.cpp
+CruiseShip.h
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/ClassHierarchyAssignment/CruiseShip.h
+
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/ClassHierarchyAssignment/CruiseShip.h
+Ship.h
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/ClassHierarchyAssignment/Ship.h
+
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/ClassHierarchyAssignment/Ship.cpp
+Ship.h
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/ClassHierarchyAssignment/Ship.h
+
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/ClassHierarchyAssignment/Ship.h
+string
+-
+iostream
+-
+
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/ClassHierarchyAssignment/tests.cpp
+Ship.cpp
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/ClassHierarchyAssignment/Ship.cpp
+CruiseShip.cpp
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/ClassHierarchyAssignment/CruiseShip.cpp
+CargoShip.cpp
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/ClassHierarchyAssignment/CargoShip.cpp
+gtest/gtest.h
+-
+

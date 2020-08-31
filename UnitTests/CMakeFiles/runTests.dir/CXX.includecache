@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alek/Documents/DMACC/Summer2020/C++/CIS-161/UnitTests/UnitTests.cpp
+iostream
+-
+gtest/gtest.h
+-
+
